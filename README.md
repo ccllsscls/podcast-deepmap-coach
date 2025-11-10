@@ -1,4 +1,4 @@
-# podcast-deepmap-coach
+# podcast-deepmap-AI-coach
 A structured prompt framework that turns podcast insights into verifiable deep summaries and personalized action plans.
 
 # 🎙️ Podcast DeepMap Coach
